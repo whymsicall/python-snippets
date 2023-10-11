@@ -1,11 +1,11 @@
-# File: <exercise2>
-# Description: <Calories burned per time interval>
+# File: calories_burned_per_time_interval
+# Description: Calories burned per time interval
 # Assignment Name and Number: #2 of Chapter 4
 #
-# Name: <Landon Svatek>
-# GitHub: <whymsicall>
+# Name: Landon Svatek
+# GitHub: whymsicall
 #
-# On my honor, <Landon Svatek>, this programming assignment is my own work
+# On my honor, Landon Svatek, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 

@@ -1,3 +1,13 @@
+# File: roman_numerals.py
+# Description: Roman Numerals
+# Assignment Name and Number: #4 of Chapter 3
+#
+# Name: Landon Svatek
+# GitHub: whymsicall
+#
+# On my honor, Landon Svatek, this programming assignment is my own work
+# and I have not provided this code to any other student.
+
 number = float(input("enter numeral: "))
 if number == 1: print("Your number is I")
 elif number == 2: print("Your number is II")

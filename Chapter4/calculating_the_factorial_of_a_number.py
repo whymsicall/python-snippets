@@ -1,11 +1,11 @@
-# File: <exercise12>
-# Description: <Calculating the Factorial of a Number>
+# File: calculating_the_factorial_of_a_number
+# Description: Calculating the Factorial of a Number
 # Assignment Name and Number: #12 of Chapter 4
 #
-# Name: <Landon Svatek>
-# GitHub: <whymsicall>
+# Name: Landon Svatek
+# GitHub: whymsicall
 #
-# On my honor, <Landon Svatek>, this programming assignment is my own work
+# On my honor, Landon Svatek, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 

@@ -1,3 +1,13 @@
+# File: turtle_graphics_drawing.py
+# Description: Turtle Graphics Drawing
+# Assignment Name and Number: #15 of Chapter 2
+#
+# Name: Landon Svatek
+# GitHub: whymsicall
+#
+# On my honor, Landon Svatek, this programming assignment is my own work
+# and I have not provided this code to any other student.
+
 import turtle
 
 turtle.hideturtle()

@@ -1,11 +1,11 @@
-# File: <exercise7>
-# Description: <How many pennies you will save per day>
+# File: how_many_pennies_you_will_save_per_day
+# Description: How many pennies you will save per day
 # Assignment Name and Number: #7 of Chapter 4
 #
-# Name: <Landon Svatek>
-# GitHub: <whymsicall>
+# Name: Landon Svatek
+# GitHub: whymsicall
 #
-# On my honor, <Landon Svatek>, this programming assignment is my own work
+# On my honor, Landon Svatek, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 pennies = 0.01

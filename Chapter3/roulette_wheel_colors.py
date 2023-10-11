@@ -1,3 +1,13 @@
+# File: roulette_wheel_colors.py
+# Description: Roulette wheel colors
+# Assignment Name and Number: #9 of Chapter 3
+#
+# Name: Landon Svatek
+# GitHub: whymsicall
+#
+# On my honor, Landon Svatek, this programming assignment is my own work
+# and I have not provided this code to any other student.
+
 pocket = int(input("Enter a number 0-36: "))
 
 red = [1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36]

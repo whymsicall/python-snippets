@@ -1,3 +1,14 @@
+# File: number_analyser.py
+# Description: Number Analyser
+# Assignment Name and Number: #1 of Chapter 3
+#
+# Name: Landon Svatek
+# GitHub: whymsicall
+#
+# On my honor, Landon Svatek, this programming assignment is my own work
+# and I have not provided this code to any other student.
+
+
 Z = "zero"
 P = "positive"
 N = "negative"

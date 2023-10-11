@@ -1,11 +1,11 @@
-# File: <exercise16>
-# Description: <Program that uses nested loops to make a pattern>
+# File: nested_loops_pattern_2.py
+# Description: Program that uses nested loops to make a pattern
 # Assignment Name and Number: #16 of Chapter 4
 #
-# Name: <Landon Svatek>
-# GitHub: <whymsicall>
+# Name: Landon Svatek
+# GitHub: whymsicall
 #
-# On my honor, <Landon Svatek>, this programming assignment is my own work
+# On my honor, Landon Svatek, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 import turtle
